@@ -5,5 +5,10 @@ module.exports = {
     verbose: false,
     build: {
         overwriteDest: true,
+    },
+    run: {
+        startUrl: [
+            'https://app.youneedabudget.com/users/authentication'
+        ]
     }
 };

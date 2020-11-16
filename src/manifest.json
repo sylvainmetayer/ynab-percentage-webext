@@ -5,22 +5,11 @@
     "content_scripts": [
         {
             "matches": [
-                "https://app.youneedabudget.com/*/budget/*"
+                "https://app.youneedabudget.com/*/budget"
             ],
             "js": [
                 "index.js"
             ]
         }
-    ],
-    "options_ui": {
-        "page": "options.html"
-    },
-    "permissions": [
-        "storage"
-    ],
-    "applications": {
-        "gecko": {
-            "id": "addon@example.com"
-        }
-    }
+    ]
 }
