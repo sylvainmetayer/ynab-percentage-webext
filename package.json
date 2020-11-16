@@ -4,13 +4,13 @@
   "description": "Basic WebExtension to add percentage on category group inside YNAB budget view",
   "main": "index.js",
   "scripts": {
-    "start": "web-ext --config=my-config.js run -s src",
-    "lint": "web-ext --config=my-config.js lint -s src",
-    "build": "web-ext --config=my-config.js build -s src"
+    "start": "web-ext run -s src",
+    "lint": "web-ext lint -s src",
+    "build": "web-ext build -s src"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/sylvainmetayer/ynab-percentage-webext"
   },
   "keywords": [
     "ynab",
