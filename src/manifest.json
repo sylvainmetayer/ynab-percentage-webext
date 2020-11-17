@@ -11,5 +11,11 @@
                 "index.js"
             ]
         }
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "ynab_percentage_webextension@sylvain.dev",
+            "strict_min_version": "52.0"
+        }
+    }
 }
