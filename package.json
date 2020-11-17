@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "web-ext run -s src",
+    "start:chrome": "web-ext run -s src -t chromium",
     "lint": "web-ext lint -s src",
     "build": "web-ext build -s src"
   },
