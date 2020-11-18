@@ -1,5 +1,7 @@
 # ynab-percentage-webext
 
+![Icon](.github/img/icon.png "Icon")
+
 ![Release](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Release/badge.svg?branch=main)
 ![Build](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Build/badge.svg?branch=main)
 ![Lint](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Lint/badge.svg)
@@ -15,7 +17,7 @@ At the moment, the extension will run only run with some requirements :
 
 - You need to set your Currency number format to `123 456.789` in your YNAB settings.
 
-Install it from the [AMO store](https://addons.mozilla.org/fr/firefox/addon/ynab-percentage-view/) (extension needs to be approved first)
+Install it from the [AMO store](https://addons.mozilla.org/fr/firefox/addon/ynab-percentage-view/)
 
 ## Usage
 
