@@ -2,7 +2,7 @@
 
 ![Icon](.github/img/icon.png "Icon")
 
-![Release](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Release/badge.svg?branch=main)
+![Release](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Release/badge.svg)
 ![Build](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Build/badge.svg?branch=main)
 ![Lint](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Lint/badge.svg)
 
