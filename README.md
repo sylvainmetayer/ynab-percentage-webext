@@ -34,11 +34,4 @@ Install it from the [AMO store](https://addons.mozilla.org/fr/firefox/addon/ynab
 
 ## Release
 
-- Create a tag, release will be created by the [Github Action](.github/workflows/release.yml)
-
-## TODO
-
-- [ ] Find a way to get errors displayed instead of being ignored ([link](https://extensionworkshop.com/documentation/develop/debugging/#debugging-content-scripts))
-- [ ] Support multiple number format and configure them
-- [ ] Package extension in repository and/or in [AMO](https://addons.mozilla.org/)
-- [ ] Chrome extension submission ?
+- Create a tag `vX.X` on `main` branch, release will be created by the [Github Action](.github/workflows/release.yml) and auto submitted to AMO.
