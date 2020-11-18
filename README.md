@@ -15,7 +15,7 @@ Basic WebExtension to add percentage of your total budget on each on category gr
 
 At the moment, the extension will run only run with some requirements :
 
-- You need to set your Currency number format to `123 456.789` in your YNAB settings.
+- You need to set your Currency number format to `123 456.789` in your YNAB settings. [#1](/../../issues/1)
 
 Install it from the [AMO store](https://addons.mozilla.org/fr/firefox/addon/ynab-percentage-view/)
 
