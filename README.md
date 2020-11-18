@@ -1,6 +1,6 @@
 # ynab-percentage-webext
 
-![Icon](.github/img/icon.png "Icon")
+![Icon](.github/img/ext-icon.png "Icon")
 
 ![Release](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Release/badge.svg)
 ![Build](https://github.com/sylvainmetayer/ynab-percentage-webext/workflows/Build/badge.svg?branch=main)
