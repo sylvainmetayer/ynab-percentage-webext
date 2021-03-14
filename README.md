@@ -11,6 +11,10 @@ Basic WebExtension to add percentage of your total budget on each on category gr
 ![Before](.github/img/before.png "Before")
 ![After](.github/img/after.png "After")
 
+## Status
+
+Not used anymore, see [this ynab tollkit issue](https://github.com/toolkit-for-ynab/toolkit-for-ynab/issues/2223) which provide a complete ynab toolkit to add features.
+
 ## Installation
 
 At the moment, the extension will run only run with some requirements :
